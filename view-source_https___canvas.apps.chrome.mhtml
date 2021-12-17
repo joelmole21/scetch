@@ -1,0 +1,372 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://canvas.apps.chrome/
+Subject: 
+Date: Fri, 17 Dec 2021 22:47:36 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--09NMoejOyRvD5m6lebyoOxanRIm8O1rfpiYiZkQpel----"
+
+
+------MultipartBoundary--09NMoejOyRvD5m6lebyoOxanRIm8O1rfpiYiZkQpel----
+Content-Type: text/html
+Content-ID: <frame-F02C77B18FCBE41450137460A01E42B1@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://canvas.apps.chrome/
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body><div class=3D"line-gutter-backdrop"></div><form auto=
+complete=3D"off"><label class=3D"line-wrap-control">Line wrap<input type=3D=
+"checkbox" aria-label=3D"Line wrap"></label></form><table><tbody><tr><td cl=
+ass=3D"line-number" value=3D"1"></td><td class=3D"line-content"><span class=
+=3D"html-doctype">&lt;!DOCTYPE html&gt;</span></td></tr><tr><td class=3D"li=
+ne-number" value=3D"2"></td><td class=3D"line-content"><br></td></tr><tr><t=
+d class=3D"line-number" value=3D"3"></td><td class=3D"line-content">  <span=
+ class=3D"html-tag">&lt;head&gt;</span></td></tr><tr><td class=3D"line-numb=
+er" value=3D"4"></td><td class=3D"line-content">    <span class=3D"html-tag=
+">&lt;meta</span></td></tr><tr><td class=3D"line-number" value=3D"5"></td><=
+td class=3D"line-content">        <span class=3D"html-attribute-name">name<=
+/span>=3D"<span class=3D"html-attribute-value">description</span>"</td></tr=
+><tr><td class=3D"line-number" value=3D"6"></td><td class=3D"line-content">=
+        <span class=3D"html-attribute-name">content</span>=3D"<span class=
+=3D"html-attribute-value">Create your own designs with Canvas. Express your=
+self with natural brushes and hand-picked colors. Never lose a masterpiece =
+with automatic syncing to your Google account.</span>"&gt;</td></tr><tr><td=
+ class=3D"line-number" value=3D"7"></td><td class=3D"line-content">    <spa=
+n class=3D"html-tag">&lt;meta <span class=3D"html-attribute-name">name</spa=
+n>=3D"<span class=3D"html-attribute-value">viewport</span>" <span class=3D"=
+html-attribute-name">content</span>=3D"<span class=3D"html-attribute-value"=
+>width=3Ddevice-width, initial-scale=3D1.0</span>"&gt;</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"8"></td><td class=3D"line-content">    <=
+span class=3D"html-tag">&lt;link <span class=3D"html-attribute-name">rel</s=
+pan>=3D"<span class=3D"html-attribute-value">stylesheet</span>" <span class=
+=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-value ht=
+ml-resource-link" target=3D"_blank" href=3D"https://fonts.googleapis.com/cs=
+s?family=3DGoogle+Sans_old" rel=3D"noreferrer noopener">https://fonts.googl=
+eapis.com/css?family=3DGoogle+Sans_old</a>"&gt;</span></td></tr><tr><td cla=
+ss=3D"line-number" value=3D"9"></td><td class=3D"line-content">    <span cl=
+ass=3D"html-tag">&lt;title&gt;</span>Canvas<span class=3D"html-tag">&lt;/ti=
+tle&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"10"></td><td=
+ class=3D"line-content">    <span class=3D"html-tag">&lt;style&gt;</span></=
+td></tr><tr><td class=3D"line-number" value=3D"11"></td><td class=3D"line-c=
+ontent">      body {</td></tr><tr><td class=3D"line-number" value=3D"12"></=
+td><td class=3D"line-content">        background-color: white;</td></tr><tr=
+><td class=3D"line-number" value=3D"13"></td><td class=3D"line-content">   =
+     font-family: 'Roboto', 'Noto', sans-serif;</td></tr><tr><td class=3D"l=
+ine-number" value=3D"14"></td><td class=3D"line-content">        margin: 0;=
+</td></tr><tr><td class=3D"line-number" value=3D"15"></td><td class=3D"line=
+-content">        /* Prevent user selecting things by dragging inside the d=
+rawing app. */</td></tr><tr><td class=3D"line-number" value=3D"16"></td><td=
+ class=3D"line-content">        user-select: none;</td></tr><tr><td class=
+=3D"line-number" value=3D"17"></td><td class=3D"line-content">      }</td><=
+/tr><tr><td class=3D"line-number" value=3D"18"></td><td class=3D"line-conte=
+nt">      #drawing-app {</td></tr><tr><td class=3D"line-number" value=3D"19=
+"></td><td class=3D"line-content">        height: 100%;</td></tr><tr><td cl=
+ass=3D"line-number" value=3D"20"></td><td class=3D"line-content">        le=
+ft: 0;</td></tr><tr><td class=3D"line-number" value=3D"21"></td><td class=
+=3D"line-content">        position: absolute;</td></tr><tr><td class=3D"lin=
+e-number" value=3D"22"></td><td class=3D"line-content">        top: 0;</td>=
+</tr><tr><td class=3D"line-number" value=3D"23"></td><td class=3D"line-cont=
+ent">        width: 100%;</td></tr><tr><td class=3D"line-number" value=3D"2=
+4"></td><td class=3D"line-content">      }</td></tr><tr><td class=3D"line-n=
+umber" value=3D"25"></td><td class=3D"line-content">      /*</td></tr><tr><=
+td class=3D"line-number" value=3D"26"></td><td class=3D"line-content">     =
+  * Update the fullscreen visual environment color to be white.</td></tr><t=
+r><td class=3D"line-number" value=3D"27"></td><td class=3D"line-content">  =
+     * Without this the body background will default to black when</td></tr=
+><tr><td class=3D"line-number" value=3D"28"></td><td class=3D"line-content"=
+>       * in fullscreen.</td></tr><tr><td class=3D"line-number" value=3D"29=
+"></td><td class=3D"line-content">       */</td></tr><tr><td class=3D"line-=
+number" value=3D"30"></td><td class=3D"line-content">      body::backdrop {=
+</td></tr><tr><td class=3D"line-number" value=3D"31"></td><td class=3D"line=
+-content">        background-color: white;</td></tr><tr><td class=3D"line-n=
+umber" value=3D"32"></td><td class=3D"line-content">      }</td></tr><tr><t=
+d class=3D"line-number" value=3D"33"></td><td class=3D"line-content">    <s=
+pan class=3D"html-tag">&lt;/style&gt;</span></td></tr><tr><td class=3D"line=
+-number" value=3D"34"></td><td class=3D"line-content">    <span class=3D"ht=
+ml-tag">&lt;link <span class=3D"html-attribute-name">rel</span>=3D"<span cl=
+ass=3D"html-attribute-value">manifest</span>" <span class=3D"html-attribute=
+-name">href</span>=3D"<a class=3D"html-attribute-value html-resource-link" =
+target=3D"_blank" href=3D"https://canvas.apps.chrome/manifest.json" rel=3D"=
+noreferrer noopener">/manifest.json</a>" <span class=3D"html-attribute-name=
+">crossorigin</span>=3D"<span class=3D"html-attribute-value">use-credential=
+s</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"35"></=
+td><td class=3D"line-content">    <span class=3D"html-tag">&lt;link <span c=
+lass=3D"html-attribute-name">rel</span>=3D"<span class=3D"html-attribute-va=
+lue">icon</span>" <span class=3D"html-attribute-name">type</span>=3D"<span =
+class=3D"html-attribute-value">image/png</span>" <span class=3D"html-attrib=
+ute-name">href</span>=3D"<a class=3D"html-attribute-value html-resource-lin=
+k" target=3D"_blank" href=3D"https://canvas.apps.chrome/assets/canvas_48.pn=
+g" rel=3D"noreferrer noopener">/assets/canvas_48.png</a>" <span class=3D"ht=
+ml-attribute-name">sizes</span>=3D"<span class=3D"html-attribute-value">48x=
+48</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"36"><=
+/td><td class=3D"line-content">    <span class=3D"html-tag">&lt;link <span =
+class=3D"html-attribute-name">rel</span>=3D"<span class=3D"html-attribute-v=
+alue">icon</span>" <span class=3D"html-attribute-name">type</span>=3D"<span=
+ class=3D"html-attribute-value">image/png</span>" <span class=3D"html-attri=
+bute-name">href</span>=3D"<a class=3D"html-attribute-value html-resource-li=
+nk" target=3D"_blank" href=3D"https://canvas.apps.chrome/assets/canvas_128.=
+png" rel=3D"noreferrer noopener">/assets/canvas_128.png</a>" <span class=3D=
+"html-attribute-name">sizes</span>=3D"<span class=3D"html-attribute-value">=
+128x128</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"=
+37"></td><td class=3D"line-content">    <span class=3D"html-tag">&lt;link <=
+span class=3D"html-attribute-name">rel</span>=3D"<span class=3D"html-attrib=
+ute-value">icon</span>" <span class=3D"html-attribute-name">type</span>=3D"=
+<span class=3D"html-attribute-value">image/png</span>" <span class=3D"html-=
+attribute-name">href</span>=3D"<a class=3D"html-attribute-value html-resour=
+ce-link" target=3D"_blank" href=3D"https://canvas.apps.chrome/assets/canvas=
+_192.png" rel=3D"noreferrer noopener">/assets/canvas_192.png</a>" <span cla=
+ss=3D"html-attribute-name">sizes</span>=3D"<span class=3D"html-attribute-va=
+lue">192x192</span>"&gt;</span></td></tr><tr><td class=3D"line-number" valu=
+e=3D"38"></td><td class=3D"line-content">    <span class=3D"html-tag">&lt;l=
+ink <span class=3D"html-attribute-name">rel</span>=3D"<span class=3D"html-a=
+ttribute-value">icon</span>" <span class=3D"html-attribute-name">type</span=
+>=3D"<span class=3D"html-attribute-value">image/png</span>" <span class=3D"=
+html-attribute-name">href</span>=3D"<a class=3D"html-attribute-value html-r=
+esource-link" target=3D"_blank" href=3D"https://canvas.apps.chrome/assets/c=
+anvas_256.png" rel=3D"noreferrer noopener">/assets/canvas_256.png</a>" <spa=
+n class=3D"html-attribute-name">sizes</span>=3D"<span class=3D"html-attribu=
+te-value">256x126</span>"&gt;</span></td></tr><tr><td class=3D"line-number"=
+ value=3D"39"></td><td class=3D"line-content">    <span class=3D"html-tag">=
+&lt;base <span class=3D"html-attribute-name">href</span><base href=3D"https=
+://canvas.apps.chrome/410664162-1638319235000/">=3D"<a class=3D"html-attrib=
+ute-value html-resource-link" target=3D"_blank" href=3D"https://canvas.apps=
+.chrome/410664162-1638319235000/" rel=3D"noreferrer noopener">/410664162-16=
+38319235000/</a>"&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"40"></td><td class=3D"line-content">    <span class=3D"html-tag">&lt;li=
+nk <span class=3D"html-attribute-name">rel</span>=3D"<span class=3D"html-at=
+tribute-value">stylesheet</span>" <span class=3D"html-attribute-name">href<=
+/span>=3D"<a class=3D"html-attribute-value html-resource-link" target=3D"_b=
+lank" href=3D"https://canvas.apps.chrome/410664162-1638319235000/canvas_cro=
+s_stylesheet.css" rel=3D"noreferrer noopener">canvas_cros_stylesheet.css</a=
+>"/&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"41"></td><td=
+ class=3D"line-content">    </td></tr><tr><td class=3D"line-number" value=
+=3D"42"></td><td class=3D"line-content">  <span class=3D"html-tag">&lt;/hea=
+d&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"43"></td><td c=
+lass=3D"line-content">  <span class=3D"html-tag">&lt;body&gt;</span></td></=
+tr><tr><td class=3D"line-number" value=3D"44"></td><td class=3D"line-conten=
+t">    <span class=3D"html-tag">&lt;drawing-app <span class=3D"html-attribu=
+te-name">id</span>=3D"<span class=3D"html-attribute-value">drawing-app</spa=
+n>"&gt;</span><span class=3D"html-tag">&lt;/drawing-app&gt;</span></td></tr=
+><tr><td class=3D"line-number" value=3D"45"></td><td class=3D"line-content"=
+>  <span class=3D"html-tag">&lt;/body&gt;</span></td></tr><tr><td class=3D"=
+line-number" value=3D"46"></td><td class=3D"line-content"><br></td></tr><tr=
+><td class=3D"line-number" value=3D"47"></td><td class=3D"line-content"><sp=
+an class=3D"html-tag">&lt;script&gt;</span>(function(){/*</td></tr><tr><td =
+class=3D"line-number" value=3D"48"></td><td class=3D"line-content"><br></td=
+></tr><tr><td class=3D"line-number" value=3D"49"></td><td class=3D"line-con=
+tent"> Copyright The Closure Library Authors.</td></tr><tr><td class=3D"lin=
+e-number" value=3D"50"></td><td class=3D"line-content"> SPDX-License-Identi=
+fier: Apache-2.0</td></tr><tr><td class=3D"line-number" value=3D"51"></td><=
+td class=3D"line-content">*/</td></tr><tr><td class=3D"line-number" value=
+=3D"52"></td><td class=3D"line-content">'use strict';function aa(a){var b=
+=3D0;return function(){return b&lt;a.length?{done:!1,value:a[b++]}:{done:!0=
+}}}var n=3D"function"=3D=3Dtypeof Object.defineProperties?Object.defineProp=
+erty:function(a,b,d){if(a=3D=3DArray.prototype||a=3D=3DObject.prototype)ret=
+urn a;a[b]=3Dd.value;return a};</td></tr><tr><td class=3D"line-number" valu=
+e=3D"53"></td><td class=3D"line-content">function ba(a){a=3D["object"=3D=3D=
+typeof globalThis&amp;&amp;globalThis,a,"object"=3D=3Dtypeof window&amp;&am=
+p;window,"object"=3D=3Dtypeof self&amp;&amp;self,"object"=3D=3Dtypeof globa=
+l&amp;&amp;global];for(var b=3D0;b&lt;a.length;++b){var d=3Da[b];if(d&amp;&=
+amp;d.Math=3D=3DMath)return d}throw Error("Cannot find global object");}var=
+ q=3Dba(this);function r(a,b){if(b)a:{var d=3Dq;a=3Da.split(".");for(var e=
+=3D0;e&lt;a.length-1;e++){var g=3Da[e];if(!(g in d))break a;d=3Dd[g]}a=3Da[=
+a.length-1];e=3Dd[a];b=3Db(e);b!=3De&amp;&amp;null!=3Db&amp;&amp;n(d,a,{con=
+figurable:!0,writable:!0,value:b})}}</td></tr><tr><td class=3D"line-number"=
+ value=3D"54"></td><td class=3D"line-content">r("Symbol",function(a){functi=
+on b(l){if(this instanceof b)throw new TypeError("Symbol is not a construct=
+or");return new d(e+(l||"")+"_"+g++,l)}function d(l,c){this.g=3Dl;n(this,"d=
+escription",{configurable:!0,writable:!0,value:c})}if(a)return a;d.prototyp=
+e.toString=3Dfunction(){return this.g};var e=3D"jscomp_symbol_"+(1E9*Math.r=
+andom()&gt;&gt;&gt;0)+"_",g=3D0;return b});</td></tr><tr><td class=3D"line-=
+number" value=3D"55"></td><td class=3D"line-content">r("Symbol.iterator",fu=
+nction(a){if(a)return a;a=3DSymbol("Symbol.iterator");for(var b=3D"Array In=
+t8Array Uint8Array Uint8ClampedArray Int16Array Uint16Array Int32Array Uint=
+32Array Float32Array Float64Array".split(" "),d=3D0;d&lt;b.length;d++){var =
+e=3Dq[b[d]];"function"=3D=3D=3Dtypeof e&amp;&amp;"function"!=3Dtypeof e.pro=
+totype[a]&amp;&amp;n(e.prototype,a,{configurable:!0,writable:!0,value:funct=
+ion(){return ca(aa(this))}})}return a});function ca(a){a=3D{next:a};a[Symbo=
+l.iterator]=3Dfunction(){return this};return a}</td></tr><tr><td class=3D"l=
+ine-number" value=3D"56"></td><td class=3D"line-content">function u(a){var =
+b=3D"undefined"!=3Dtypeof Symbol&amp;&amp;Symbol.iterator&amp;&amp;a[Symbol=
+.iterator];return b?b.call(a):{next:aa(a)}}var da=3D"function"=3D=3Dtypeof =
+Object.create?Object.create:function(a){function b(){}b.prototype=3Da;retur=
+n new b},v;if("function"=3D=3Dtypeof Object.setPrototypeOf)v=3DObject.setPr=
+ototypeOf;else{var w;a:{var ea=3D{a:!0},fa=3D{};try{fa.__proto__=3Dea;w=3Df=
+a.a;break a}catch(a){}w=3D!1}v=3Dw?function(a,b){a.__proto__=3Db;if(a.__pro=
+to__!=3D=3Db)throw new TypeError(a+" is not extensible");return a}:null}var=
+ ha=3Dv;</td></tr><tr><td class=3D"line-number" value=3D"57"></td><td class=
+=3D"line-content">function x(){this.j=3D!1;this.g=3Dnull;this.o=3Dvoid 0;th=
+is.h=3D1;this.s=3Dthis.l=3D0;this.i=3Dnull}function y(a){if(a.j)throw new T=
+ypeError("Generator is already running");a.j=3D!0}x.prototype.m=3Dfunction(=
+a){this.o=3Da};function z(a,b){a.i=3D{F:b,G:!0};a.h=3Da.l||a.s}x.prototype.=
+return=3Dfunction(a){this.i=3D{return:a};this.h=3Dthis.s};function ia(a){th=
+is.g=3Dnew x;this.h=3Da}</td></tr><tr><td class=3D"line-number" value=3D"58=
+"></td><td class=3D"line-content">function ja(a,b){y(a.g);var d=3Da.g.g;if(=
+d)return A(a,"return"in d?d["return"]:function(e){return{value:e,done:!0}},=
+b,a.g.return);a.g.return(b);return B(a)}function A(a,b,d,e){try{var g=3Db.c=
+all(a.g.g,d);if(!(g instanceof Object))throw new TypeError("Iterator result=
+ "+g+" is not an object");if(!g.done)return a.g.j=3D!1,g;var l=3Dg.value}ca=
+tch(c){return a.g.g=3Dnull,z(a.g,c),B(a)}a.g.g=3Dnull;e.call(a.g,l);return =
+B(a)}</td></tr><tr><td class=3D"line-number" value=3D"59"></td><td class=3D=
+"line-content">function B(a){for(;a.g.h;)try{var b=3Da.h(a.g);if(b)return a=
+.g.j=3D!1,{value:b.value,done:!1}}catch(d){a.g.o=3Dvoid 0,z(a.g,d)}a.g.j=3D=
+!1;if(a.g.i){b=3Da.g.i;a.g.i=3Dnull;if(b.G)throw b.F;return{value:b.return,=
+done:!0}}return{value:void 0,done:!0}}</td></tr><tr><td class=3D"line-numbe=
+r" value=3D"60"></td><td class=3D"line-content">function ka(a){this.next=3D=
+function(b){y(a.g);a.g.g?b=3DA(a,a.g.g.next,b,a.g.m):(a.g.m(b),b=3DB(a));re=
+turn b};this.throw=3Dfunction(b){y(a.g);a.g.g?b=3DA(a,a.g.g["throw"],b,a.g.=
+m):(z(a.g,b),b=3DB(a));return b};this.return=3Dfunction(b){return ja(a,b)};=
+this[Symbol.iterator]=3Dfunction(){return this}}function la(a){function b(e=
+){return a.next(e)}function d(e){return a.throw(e)}new Promise(function(e,g=
+){function l(c){c.done?e(c.value):Promise.resolve(c.value).then(b,d).then(l=
+,g)}l(a.next())})}</td></tr><tr><td class=3D"line-number" value=3D"61"></td=
+><td class=3D"line-content">r("Promise",function(a){function b(c){this.h=3D=
+0;this.i=3Dvoid 0;this.g=3D[];this.o=3D!1;var f=3Dthis.j();try{c(f.resolve,=
+f.reject)}catch(h){f.reject(h)}}function d(){this.g=3Dnull}function e(c){re=
+turn c instanceof b?c:new b(function(f){f(c)})}if(a)return a;d.prototype.h=
+=3Dfunction(c){if(null=3D=3Dthis.g){this.g=3D[];var f=3Dthis;this.i(functio=
+n(){f.l()})}this.g.push(c)};var g=3Dq.setTimeout;d.prototype.i=3Dfunction(c=
+){g(c,0)};d.prototype.l=3Dfunction(){for(;this.g&amp;&amp;this.g.length;){v=
+ar c=3Dthis.g;this.g=3D[];for(var f=3D0;f&lt;c.length;++f){var h=3D</td></t=
+r><tr><td class=3D"line-number" value=3D"62"></td><td class=3D"line-content=
+">c[f];c[f]=3Dnull;try{h()}catch(k){this.j(k)}}}this.g=3Dnull};d.prototype.=
+j=3Dfunction(c){this.i(function(){throw c;})};b.prototype.j=3Dfunction(){fu=
+nction c(k){return function(m){h||(h=3D!0,k.call(f,m))}}var f=3Dthis,h=3D!1=
+;return{resolve:c(this.A),reject:c(this.l)}};b.prototype.A=3Dfunction(c){if=
+(c=3D=3D=3Dthis)this.l(new TypeError("A Promise cannot resolve to itself"))=
+;else if(c instanceof b)this.C(c);else{a:switch(typeof c){case "object":var=
+ f=3Dnull!=3Dc;break a;case "function":f=3D!0;break a;default:f=3D!1}f?this=
+.v(c):this.m(c)}};</td></tr><tr><td class=3D"line-number" value=3D"63"></td=
+><td class=3D"line-content">b.prototype.v=3Dfunction(c){var f=3Dvoid 0;try{=
+f=3Dc.then}catch(h){this.l(h);return}"function"=3D=3Dtypeof f?this.D(f,c):t=
+his.m(c)};b.prototype.l=3Dfunction(c){this.s(2,c)};b.prototype.m=3Dfunction=
+(c){this.s(1,c)};b.prototype.s=3Dfunction(c,f){if(0!=3Dthis.h)throw Error("=
+Cannot settle("+c+", "+f+"): Promise already settled in state"+this.h);this=
+.h=3Dc;this.i=3Df;2=3D=3D=3Dthis.h&amp;&amp;this.B();this.I()};b.prototype.=
+B=3Dfunction(){var c=3Dthis;g(function(){if(c.J()){var f=3Dq.console;"undef=
+ined"!=3D=3Dtypeof f&amp;&amp;f.error(c.i)}},1)};b.prototype.J=3D</td></tr>=
+<tr><td class=3D"line-number" value=3D"64"></td><td class=3D"line-content">=
+function(){if(this.o)return!1;var c=3Dq.CustomEvent,f=3Dq.Event,h=3Dq.dispa=
+tchEvent;if("undefined"=3D=3D=3Dtypeof h)return!0;"function"=3D=3D=3Dtypeof=
+ c?c=3Dnew c("unhandledrejection",{cancelable:!0}):"function"=3D=3D=3Dtypeo=
+f f?c=3Dnew f("unhandledrejection",{cancelable:!0}):(c=3Dq.document.createE=
+vent("CustomEvent"),c.initCustomEvent("unhandledrejection",!1,!0,c));c.prom=
+ise=3Dthis;c.reason=3Dthis.i;return h(c)};b.prototype.I=3Dfunction(){if(nul=
+l!=3Dthis.g){for(var c=3D0;c&lt;this.g.length;++c)l.h(this.g[c]);this.g=3Dn=
+ull}};var l=3Dnew d;b.prototype.C=3D</td></tr><tr><td class=3D"line-number"=
+ value=3D"65"></td><td class=3D"line-content">function(c){var f=3Dthis.j();=
+c.u(f.resolve,f.reject)};b.prototype.D=3Dfunction(c,f){var h=3Dthis.j();try=
+{c.call(f,h.resolve,h.reject)}catch(k){h.reject(k)}};b.prototype.then=3Dfun=
+ction(c,f){function h(p,t){return"function"=3D=3Dtypeof p?function(P){try{k=
+(p(P))}catch(Q){m(Q)}}:t}var k,m,R=3Dnew b(function(p,t){k=3Dp;m=3Dt});this=
+.u(h(c,k),h(f,m));return R};b.prototype.catch=3Dfunction(c){return this.the=
+n(void 0,c)};b.prototype.u=3Dfunction(c,f){function h(){switch(k.h){case 1:=
+c(k.i);break;case 2:f(k.i);break;default:throw Error("Unexpected state: "+<=
+/td></tr><tr><td class=3D"line-number" value=3D"66"></td><td class=3D"line-=
+content">k.h);}}var k=3Dthis;null=3D=3Dthis.g?l.h(h):this.g.push(h);this.o=
+=3D!0};b.resolve=3De;b.reject=3Dfunction(c){return new b(function(f,h){h(c)=
+})};b.race=3Dfunction(c){return new b(function(f,h){for(var k=3Du(c),m=3Dk.=
+next();!m.done;m=3Dk.next())e(m.value).u(f,h)})};b.all=3Dfunction(c){var f=
+=3Du(c),h=3Df.next();return h.done?e([]):new b(function(k,m){function R(P){=
+return function(Q){p[P]=3DQ;t--;0=3D=3Dt&amp;&amp;k(p)}}var p=3D[],t=3D0;do=
+ p.push(void 0),t++,e(h.value).u(R(p.length-1),m),h=3Df.next();while(!h.don=
+e)})};return b});</td></tr><tr><td class=3D"line-number" value=3D"67"></td>=
+<td class=3D"line-content">function ma(a,b,d){if(null=3D=3Da)throw new Type=
+Error("The 'this' value for String.prototype."+d+" must not be null or unde=
+fined");if(b instanceof RegExp)throw new TypeError("First argument to Strin=
+g.prototype."+d+" must not be a regular expression");return a+""}r("String.=
+prototype.endsWith",function(a){return a?a:function(b,d){var e=3Dma(this,b,=
+"endsWith");void 0=3D=3D=3Dd&amp;&amp;(d=3De.length);d=3DMath.max(0,Math.mi=
+n(d|0,e.length));for(var g=3Db.length;0&lt;g&amp;&amp;0&lt;d;)if(e[--d]!=3D=
+b[--g])return!1;return 0&gt;=3Dg}});</td></tr><tr><td class=3D"line-number"=
+ value=3D"68"></td><td class=3D"line-content">r("Object.is",function(a){ret=
+urn a?a:function(b,d){return b=3D=3D=3Dd?0!=3D=3Db||1/b=3D=3D=3D1/d:b!=3D=
+=3Db&amp;&amp;d!=3D=3Dd}});r("Array.prototype.includes",function(a){return =
+a?a:function(b,d){var e=3Dthis;e instanceof String&amp;&amp;(e=3DString(e))=
+;var g=3De.length;d=3Dd||0;for(0&gt;d&amp;&amp;(d=3DMath.max(d+g,0));d&lt;g=
+;d++){var l=3De[d];if(l=3D=3D=3Db||Object.is(l,b))return!0}return!1}});r("S=
+tring.prototype.includes",function(a){return a?a:function(b,d){return-1!=3D=
+=3Dma(this,b,"includes").indexOf(b,d||0)}});var C=3Dthis||self;function D(a=
+){return a};/*</td></tr><tr><td class=3D"line-number" value=3D"69"></td><td=
+ class=3D"line-content"><br></td></tr><tr><td class=3D"line-number" value=
+=3D"70"></td><td class=3D"line-content"> SPDX-License-Identifier: Apache-2.=
+0</td></tr><tr><td class=3D"line-number" value=3D"71"></td><td class=3D"lin=
+e-content">*/</td></tr><tr><td class=3D"line-number" value=3D"72"></td><td =
+class=3D"line-content">var na=3D{};function E(){}function F(a){this.g=3Da}F=
+.prototype=3Dda(E.prototype);F.prototype.constructor=3DF;if(ha)ha(F,E);else=
+ for(var G in E)if("prototype"!=3DG)if(Object.defineProperties){var oa=3DOb=
+ject.getOwnPropertyDescriptor(E,G);oa&amp;&amp;Object.defineProperty(F,G,oa=
+)}else F[G]=3DE[G];F.prototype.toString=3Dfunction(){return this.g};var pa=
+=3Dnew F("about:invalid#zTSz",na);function H(a){this.H=3Da}function I(a){re=
+turn new H(function(b){return b.substr(0,a.length+1).toLowerCase()=3D=3D=3D=
+a+":"})}var qa=3D[I("data"),I("http"),I("https"),I("mailto"),I("ftp"),new H=
+(function(a){return/^[^:]*([/?#]|$)/.test(a)})];var J;function K(a,b){this.=
+h=3Da=3D=3D=3Dra&amp;&amp;b||"";this.g=3Dsa}function L(a){return a instance=
+of K&amp;&amp;a.constructor=3D=3D=3DK&amp;&amp;a.g=3D=3D=3Dsa?a.h:"type_err=
+or:Const"}function M(a){return new K(ra,a)}var sa=3D{},ra=3D{};function N(a=
+,b){this.g=3Db=3D=3D=3Dta?a:""}N.prototype.toString=3Dfunction(){return thi=
+s.g+""};var ua=3D/%{(\w+)}/g,va=3DRegExp("^((https:)?//[0-9a-z.:[\\]-]+/|/[=
+^/\\\\]|[^:/\\\\%]+/|[^:/\\\\%]*[?#]|about:blank#)","i"),ta=3D{};function O=
+(a){if(void 0=3D=3D=3DJ){var b=3Dnull;var d=3DC.trustedTypes;if(d&amp;&amp;=
+d.createPolicy){try{b=3Dd.createPolicy("goog#html",{createHTML:D,createScri=
+pt:D,createScriptURL:D})}catch(e){C.console&amp;&amp;C.console.error(e.mess=
+age)}J=3Db}else J=3Db}a=3D(b=3DJ)?b.createScriptURL(a):a;return new N(a,ta)=
+};function S(a,b){this.g=3Db=3D=3D=3Dwa?a:""}S.prototype.toString=3Dfunctio=
+n(){return this.g.toString()};var wa=3D{};function xa(a){if(a instanceof E)=
+if(a instanceof F)a=3Da.g;else throw Error("");else a=3Da instanceof S&amp;=
+&amp;a.constructor=3D=3D=3DS?a.g:"type_error:SafeUrl";return a};function ya=
+(){return(za||self.location).host.endsWith(".googleplex.com")}var za=3Dnull=
+;</td></tr><tr><td class=3D"line-number" value=3D"73"></td><td class=3D"lin=
+e-content">function Aa(){var a;la(new ka(new ia(function(b){switch(b.h){cas=
+e 1:if(!ya())return b.return();b.l=3D2;var d=3Dfetch("/uncached",{redirect:=
+"manual"});b.h=3D4;return{value:d};case 4:a=3Db.o;b.h=3D3;b.l=3D0;break;cas=
+e 2:return b.l=3D0,b.i=3Dnull,b.return();case 3:if("opaqueredirect"=3D=3D=
+=3Da.type){d=3Dza||self.location;var e=3Dvoid 0=3D=3D=3De?qa:e;a:{e=3Dvoid =
+0=3D=3D=3De?qa:e;for(var g=3D0;g&lt;e.length;++g){var l=3De[g];if(l instanc=
+eof H&amp;&amp;l.H("/uncached")){e=3Dnew F("/uncached",na);break a}}e=3Dvoi=
+d 0}d.href=3Dxa(e||pa)}b.h=3D0}})))};var T=3D"af am ar az be bg bn bs ca cs=
+ da de el en en_gb es es_419 et eu fa fi fil fr fr_ca gl gu hi hr hu hy id =
+is it iw ja ka kk km kn ko ky lo lt lv mk ml mn mr ms my ne nl no pa pl pt_=
+br pt_pt ro ru si sk sl sq sr sv sw ta te th tk tr uk ur uz vi zh_cn zh_hk =
+zh_tw zu en_xa ar_xb".split(" ");function Ba(a){var b=3DU;b=3Dvoid 0=3D=3D=
+=3Db?T:b;a=3Da.replace("-","_").toLowerCase();if(b.includes(a))return a;a=
+=3D(a=3Da.match(/^\w{2,3}([-_]|$)/))?a[0].replace(/[_-]/g,""):"";return b.i=
+ncludes(a)?a:null};var V,W=3Dvoid 0;W=3Dvoid 0=3D=3D=3DW?T:W;var X,Y,Ca=3Dn=
+ull=3D=3D=3D(X=3Dself.document)||void 0=3D=3D=3DX?void 0:X.documentElement.=
+lang,Z=3DCa?Ca:navigator.language;Z=3D"he"=3D=3D=3DZ?"iw":Z;var Da=3Dvoid 0=
+!=3D=3D(null=3D=3D=3D(Y=3Dself.location)||void 0=3D=3D=3DY?void 0:Y.search)=
+?self.location.search:"",Ea=3D"nb"=3D=3D=3DZ?"no":Z,U=3DW;U=3Dvoid 0=3D=3D=
+=3DU?T:U;var Fa=3Dnew URLSearchParams(Da),Ga=3DFa.has("hl")?Ba(Fa.get("hl")=
+):null;if(Ga)V=3DGa;else{var Ha=3DBa(Ea);V=3DHa?Ha:"en"}</td></tr><tr><td c=
+lass=3D"line-number" value=3D"74"></td><td class=3D"line-content">var Ia=3D=
+"__"+V,Ja=3Dfunction(a,b){var d=3DL(a);if(!va.test(d))throw Error("Invalid =
+TrustedResourceUrl format: "+d);a=3Dd.replace(ua,function(e,g){if(!Object.p=
+rototype.hasOwnProperty.call(b,g))throw Error('Found marker, "'+g+'", in fo=
+rmat string, "'+d+'", but no valid label mapping found in args: '+JSON.stri=
+ngify(b));e=3Db[g];return e instanceof K?L(e):encodeURIComponent(String(e))=
+});return O(a)}(M("./app%{suffix}.js"),{suffix:Ia});var Ka;try{Ka=3D(new We=
+bAssembly.Memory({initial:1,maximum:1,shared:!0})).buffer instanceof Shared=
+ArrayBuffer?!0:!1}catch(a){Ka=3D!1}var La=3Du(Ka?[O(L(M("js/threads/ink.js"=
+))),O(L(M("./defines_threads.js")))]:[O(L(M("js/nothreads/ink.js"))),O(L(M(=
+"./defines.js")))]),Ma=3DLa.next().value,Na=3DLa.next().value;"serviceWorke=
+r"in navigator&amp;&amp;window.addEventListener("load",function(){navigator=
+.serviceWorker.register("/sw"+Ia+".js").then(function(a){console.log("Servi=
+ce Worker registered! Scope: "+a.scope)}).catch(function(a){console.log("Se=
+rvice Worker registration failed: "+a)})});</td></tr><tr><td class=3D"line-=
+number" value=3D"75"></td><td class=3D"line-content">for(var Oa=3D[O(L(M(".=
+/webcomponents-lite.js"))),Na,Ma,Ja],Pa=3Du(Oa),Qa=3DPa.next();!Qa.done;Qa=
+=3DPa.next()){var Ra=3Ddocument.createElement("script"),Sa=3DRa,Ta=3DQa.val=
+ue;Sa.src=3DTa instanceof N&amp;&amp;Ta.constructor=3D=3D=3DN?Ta.g:"type_er=
+ror:TrustedResourceUrl";var Ua=3DSa,Va,Wa=3Dvoid 0,Xa=3D(Ua.ownerDocument&a=
+mp;&amp;Ua.ownerDocument.defaultView||window).document,Ya=3Dnull=3D=3D=3D(W=
+a=3DXa.querySelector)||void 0=3D=3D=3DWa?void 0:Wa.call(Xa,"script[nonce]")=
+;(Va=3DYa?Ya.nonce||Ya.getAttribute("nonce")||"":"")&amp;&amp;Ua.setAttribu=
+te("nonce",Va);Ra.async=3D!1;</td></tr><tr><td class=3D"line-number" value=
+=3D"76"></td><td class=3D"line-content">document.head.appendChild(Ra)}ya()&=
+amp;&amp;Aa();}).call(this);</td></tr><tr><td class=3D"line-number" value=
+=3D"77"></td><td class=3D"line-content"><span class=3D"html-tag">&lt;/scrip=
+t&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"78"></td><td c=
+lass=3D"line-content"><span class=3D"html-end-of-file"></span></td></tr></t=
+body></table></body></html>
+------MultipartBoundary--09NMoejOyRvD5m6lebyoOxanRIm8O1rfpiYiZkQpel------
